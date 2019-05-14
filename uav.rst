@@ -20,7 +20,7 @@ Assembly
 .. figure:: _static/_images/asmbl1.png
    :align: center
    :width: 400
-   :alt: Снятие крышки фюзеляжа 
+   :alt:  Removing the top cover of the fuselage
 
    Removing the top cover of the fuselage
 
@@ -29,7 +29,7 @@ Assembly
 .. figure:: _static/_images/asmbl2.png
    :align: center
    :width: 400
-   :alt: Фюзеляж, вид «сбоку-сверху»
+   :alt: Fuselage
 
    Вставка соединительного штыря
 
@@ -38,7 +38,7 @@ Assembly
 .. figure:: _static/_images/asmbl3.png
    :align: center
    :width: 600
-   :alt: Консоль крыла 
+   :alt: Installing wings
 
    Установка консоли крыла
 
@@ -59,7 +59,7 @@ Assembly
    :width: 400
    :alt: Подключение кабелей консолей
 
-   Подключение кабелей консолей
+   Connection of the cables
 
 
 8) Remove the memory cards from the autopilot and camera, format them, and put them back in slots.
@@ -71,7 +71,7 @@ Assembly
    :width: 400
    :alt: Подключение питания
 
-   Установка карты памяти. Installing a battery. Connecting the battery.
+   Installing SD card . Installing the battery. Connecting the battery.
 
 11) Set up the camera (see section :doc:`camera`). Place the camera in the cradle.
 12) Close the top cover of the fuselage. To do this, first fix the rear part in the grooves, then secure the cover with rubber clamps. Make sure that the locking pins on the top cover углубились в соответствующие выемки in wings.
@@ -81,7 +81,7 @@ Assembly
    :width: 400
    :alt: Закрытие крышки фюзеляжа
 
-   Закрытие крышки фюзеляжа
+   Closing of the top cover
 
 
 UAV ready for pre-launch check.
@@ -139,7 +139,7 @@ Components of the parachute system:
    :align: center
    :height: 350
 
-   Результат
+   Result
 
 8) Еще раз сложите купол пополам так, чтобы карманы для укладки строп оказались снаружи.
 
@@ -179,7 +179,7 @@ Components of the parachute system:
    :align: center
    :width: 400
 
-   Результат
+   Result
 
 После укладки оставшейся части строп в карман купола кольцо должно находиться между витками строп.
 

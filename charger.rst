@@ -4,11 +4,11 @@ Charger and battery
 .. csv-table:: **Parameters of battery**
    
    "Guaranteed number of charge-discharge cycles", "80"
-   "Upper charge limit", "16.8 В"
-   "Lower discharge limit", "13.2 В"
+   "Upper charge limit", "16.8 V"
+   "Lower discharge limit", "13.2 V"
    "Charging current", "<10 А"
    "Number of cells", "4"
-   "Capacity", "16 000 мА·ч"
+   "Capacity", "16 000 mAh"
 
 
 Safety requirements
@@ -19,8 +19,8 @@ Safety requirements
 * Avoid depressurization and deformation of battery elements (do not drop, do not pierce).
 * Do not allow the battery to heat more than 60 degrees.
 * Avoid overcharging the battery (over 16.8V). Do not allow the battery discharge below 12V.
-* Do not store in a discharged state, with long-term storage of the battery (a month or more) must be transferred to the **Storage** mode.
-* Do not charge with currents exceeding the load capacity (not more than 100% of the capacity, it is recommended to charge 50% of the capacity to extend the service life). Exceeding the permissible charge current will heat the battery over 60 degrees.
+* Don't store in a discharged state, with long-term storage of the battery (a month or more) must be transferred to the **Storage** mode.
+* Don't charge with currents exceeding the load capacity (not more than 100% of the capacity, it is recommended to charge 50% of the capacity to extend the service life). Exceeding the permissible charge current will heat the battery over 60 degrees.
 * Failure to comply with the above instructions may result in fire or complete failure of the battery.
 
 
@@ -28,8 +28,8 @@ Safety requirements
 
 * The charger must be switched on before connecting the battery to the charger.
 * Cables and connectors must be inspected for damage before each use.
-* Do not operate the charger in direct sunlight.
-* Do not leave the charger without supervision.
+* Don't operate the charger in direct sunlight.
+* Don't leave the charger without supervision.
 
 The charger is set up from the factory. If the settings are off, follow the instructions to restore them.
 
@@ -41,7 +41,7 @@ Setting the charger by selecting the appropriate menu item using the touch scree
 .. figure:: _static/_images/charge1.png
    :align: center
    :width: 400
-   :alt: Главное меню
+   :alt: Main menu
 
 **Setting battery charging parameters:**
 
@@ -50,14 +50,14 @@ In section **Type** select **LiPo**:
 .. figure:: _static/_images/charge2.png
    :align: center
    :width: 400
-   :alt: Тип 
+   :alt: Type 
 
 In section **Cells** select **4Cells** **14.8V**:
 
 .. figure:: _static/_images/charge3.png
    :align: center
    :width: 400
-   :alt: Элементы
+   :alt: Cells
 
 
 In section **Mode** select:
@@ -77,35 +77,35 @@ In section **Mode** select:
 .. figure:: _static/_images/charge4.png
    :align: center
    :width: 400
-   :alt: Режим
+   :alt: Mode
 
 In section **Current** choose **Charge: 5.0А**, **Discharge: 3.0А**:
 
 .. figure:: _static/_images/charge5.png
    :align: center
    :width: 400
-   :alt: Ток 
+   :alt: Current
 
 Choose the section **Uset**:
 
 .. figure:: _static/_images/charge7.png
    :align: center
    :width: 400
-   :alt: Настройки 
+   :alt: Settings
 
 In section **Uset** set **Cutoff Time** *200 Minute*:
 
 .. figure:: _static/_images/charge6.png
    :align: center
    :width: 400
-   :alt: Отсечка по времени 
+   :alt: Cutoff Time
 
 In section **Uset** set **Cutoff Capacity** *10.0 Ah*:
 
 .. figure:: _static/_images/charge8.png
    :align: center
    :width: 400
-   :alt: Отсечка по емкости 
+   :alt: Cutoff Time
 
 Battery charging
 ---------------------
@@ -137,6 +137,14 @@ If the flights are carried out at temperatures below 0 degrees, the battery must
 
 If the flights are carried out at temperatures above 25 degrees, the battery must be stored in a cool place, protected from direct sunlight before the flight. After the flight, you can not immediately charge the battery, you need to let it cool down. It is also necessary to charge in a cool place, protected from direct sunlight.
 
+Battery check
+---------------------------------
+To check the battery, it is recommended to carry out a full charge/discharge cycle for the battery.
+
+1) Charge the battery.
+2) Discharge the battery to 13.5 V by select **Discharge** mode.
+3) Re-charge the battery.
+
 
 Storage and discharge
 --------------------------------------------
@@ -160,7 +168,3 @@ Battery recycling
 .. attention:: Do not dispose of LiPo batteries in household waste containers. 
  Improper disposal of used power sources can be hazardous to the environment.
  Dispose of LiPo batteries in accordance with local regulations and take them to the nearest recycling points.
-
-
-
-

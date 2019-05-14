@@ -47,7 +47,7 @@ Kit
 ---------------------
 
 * Unmanned aerial vehicle (UAV) Geoscan Lite
-* UAV transport container
+* UAV transport bag
 * Launcher in transport bag
 * Payload:
 

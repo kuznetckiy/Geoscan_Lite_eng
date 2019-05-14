@@ -61,7 +61,7 @@ Kit
 ---------------------
 
 * Unmanned aerial vehicle (UAV) Geoscan Lite
-* UAV transport container
+* UAV transport bag
 * Launcher in transport bag
 * Payload:
 
@@ -97,7 +97,7 @@ After 80 flights it is recommended to send the UAV to the manufacturer for inspe
 Storage
 -----------
 
-Complex Geoscan Lite (without battery) is recommended to be stored in a transport case (launcher - in a bag) in dry rooms at a temperature of 5 to 25 °C and relative humidity not more than 80% without condensation. Shelf life - 2 years.
+Complex Geoscan Lite (without battery) and launcher are recommended to be stored in a transport bag in dry rooms at a temperature of 5 to 25 °C and relative humidity not more than 80% without condensation. Shelf life - 2 years.
 
 Storage batteries should be stored in a cool, dry place, free from direct sunlight, at a temperature of 5 to 25 °C and a relative humidity of 80%, without condensation. The optimum temperature — from 5 to 10 °C. The optimum voltage level of the battery when placing the battery for storage: 15.12 V. Shelf Life - 1 year.
 

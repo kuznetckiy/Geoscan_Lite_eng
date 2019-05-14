@@ -1,4 +1,4 @@
-Use of Geoscan Planner
+Geoscan Planner
 ==============================
 
 Preset
