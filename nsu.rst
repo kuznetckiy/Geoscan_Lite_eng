@@ -12,10 +12,10 @@ Kit
 Deployment of GCS
 -------------------
 
-* Eject RCL modem from transport case.
+* Eject RCL modem from transport bag.
 * Install Stand for RCL modem and attach RCL modem, insert the mounting screws into slot at the top of the stand.
   You can install the rack in the ground or by inserting into the hole in the transport case. 
-* Connect modem with notebook.
+* Connect modem to the notebook.
 
 **Modem RCL should be installed at the highest possible height. The antenna must be positioned vertically.**
 **Do not install the modem inside the car or in building.**

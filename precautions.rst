@@ -50,7 +50,7 @@ Safety rules
 
 **To avoid damage to parts of the complex:**
 
-* transport UAV only in transport container;
+* transport UAV only in transport bag;
 
 
 * don't move the UAV elevons manually;

@@ -13,9 +13,9 @@ Parts
 Assembly
 -------------
 
-1) Take the wings and the fuselage from the transport case UAV.
+1) Take the wings and the fuselage from the transport bag of UAV.
 2) Place the parachute in the parachute compartment (see section **Parachute system** for details).
-3) Remove the top cover of the fuselage. To do this, unfasten the rubber clamps on the nose of the fuselage, then remove the back of the cover from the grooves.
+3) Remove the top cover of the fuselage. To do this, unfasten the rubber locks on the nose of the fuselage, then remove the back of the cover from the grooves.
 
 .. figure:: _static/_images/asmbl1.png
    :align: center
@@ -42,7 +42,7 @@ Assembly
 
    Установка консоли крыла
 
-6) Attach the keels to the wings. Make sure the keels are secured by magnets.
+6) Attach the keels to wings. Make sure the keels are secured by magnets.
 
 .. figure:: _static/_images/asmbl4.png
    :align: center
@@ -63,7 +63,7 @@ Assembly
 
 
 8) Remove the memory cards from the autopilot and camera, format them, and put them back in slots.
-9) Install battery and secure it with a textile clasp.
+9) Install battery and secure it by the textile clasp.
 10) Connect the power connector of the battery.
 
 .. figure:: _static/_images/asmbl6.png
@@ -107,7 +107,7 @@ Components of the parachute system:
    7 – short static line  with the unhook ring system.
 
 
-.. attention:: Перед укладкой парашюта убедитесь, что купол парашюта, стропы и крепления строп к куполу не повреждены, не имеют надрывов и разрезов. Купол и стропы должны быть сухими, на них не должно быть бензиновых или масляных пятен. В случае, если укладка парашюта производилась более чем за 10 суток до вылета, или комплекс перевозился авиационным транспортом, разверните парашют и уложите его заново.
+.. attention:: Before laying the parachute, make sure that the parachute dome, the slings and the fastening of the slings to the dome are not damaged. Купол и стропы должны быть сухими, на них не должно быть бензиновых или масляных пятен. В случае, если укладка парашюта производилась более чем за 10 суток до вылета, или комплекс перевозился авиационным транспортом, разверните парашют и уложите его заново.
 
 
 ****Packing a parachute****
