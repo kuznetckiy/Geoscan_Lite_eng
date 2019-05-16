@@ -3,12 +3,12 @@ Charger and battery
 
 .. csv-table:: **Parameters of battery**
    
-   "Guaranteed number of charge-discharge cycles", "80"
+   "Guaranteed number of charge-discharge cycles", "50"
    "Upper charge limit", "16.8 V"
    "Lower discharge limit", "13.2 V"
    "Charging current", "<10 А"
    "Number of cells", "4"
-   "Capacity", "16 000 mAh"
+   "Capacity", "10 000 mAh"
 
 
 Safety requirements
@@ -21,7 +21,8 @@ Safety requirements
 * Avoid overcharging the battery (over 16.8V). Do not allow the battery discharge below 12V.
 * Don't store in a discharged state, with long-term storage of the battery (a month or more) must be transferred to the **Storage** mode.
 * Don't charge with currents exceeding the load capacity (not more than 100% of the capacity, it is recommended to charge 50% of the capacity to extend the service life). Exceeding the permissible charge current will heat the battery over 60 degrees.
-* Failure to comply with the above instructions may result in fire or complete failure of the battery.
+
+.. attention:: Failure to comply with the above instructions may result in fire or complete failure of the battery.
 
 
 **Charger**
@@ -31,9 +32,9 @@ Safety requirements
 * Don't operate the charger in direct sunlight.
 * Don't leave the charger without supervision.
 
-The charger is set up from the factory. If the settings are off, follow the instructions to restore them.
+The charger has set up from the factory. If the settings are off, follow the instructions to restore them.
 
-Preset battery charger
+Preset of the battery charger
 ----------------------------------------------------
 
 Setting the charger by selecting the appropriate menu item using the touch screen. When you turn on the charger, you will see main menu.
@@ -58,7 +59,6 @@ In section **Cells** select **4Cells** **14.8V**:
    :align: center
    :width: 400
    :alt: Cells
-
 
 In section **Mode** select:
 
@@ -159,7 +159,6 @@ The optimum temperature is from 5 to 10 °C.
 Optimal battery voltage level for storing: 15.12 V.
 
 Battery life cycle - 1 year.
-
 
 
 Battery recycling

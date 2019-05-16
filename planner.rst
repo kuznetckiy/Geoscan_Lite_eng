@@ -235,7 +235,7 @@ Linear aerial photography is performed in order to survey linear extended object
    :align: center
    :width: 500
 
-   Пример линейной аэрофотосъемки
+   Example of linear surveying
 
 
 Hop
@@ -248,7 +248,7 @@ Fight by pre-set route with a set altitude. It is mainly used for passing around
    :align: center
    :width: 300
 
-   Создание перелета
+   Hop creation
 
 2) Specify the flight route by single-clicking. To build a hop at different altitudes, select **Optimization - Custom altitude** in “Properties” window.
 
@@ -294,7 +294,7 @@ wind measurement function.
    :align: center
    :width: 500
 
-   Свойства точки ожидания
+   Waiting point options
 
 The UAV will hold the point for the specified time (300 seconds by default) at the specified height, and then go along the planned route.
 

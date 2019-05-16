@@ -9,8 +9,8 @@ Launcher
 Assembly
 ----------
 
-1) Eject the parts of the launcher from the transport bag.
-2) Spread out the supports on the front of the launcher. Make sure that they are securely fastened by locks. Чтобы сложить стойки, pull the locks down.
+1) Eject a parts of the launcher from the transport bag.
+2) Spread out the supports on the front of the launcher. Make sure that they are securely fastened by locks. To fold the supports pull the locks down.
 
 .. figure:: _static/_images/catapult1.png
    :align: center
@@ -18,7 +18,7 @@ Assembly
 
    Installation of supports
 
-3) Attach the middle part to front part of the launcher.
+3) Attach the middle part of the launcher.
 
 .. figure:: _static/_images/catapult2.png
    :align: center
@@ -26,7 +26,7 @@ Assembly
 
    Installation of the middle part of launcher
 
-4) Attach the rear part to the middle part of the launcher.
+4) Attach the rear part of the launcher.
 
 .. figure:: _static/_images/catapult3.png
    :align: center
@@ -34,7 +34,7 @@ Assembly
 
    Installation of the rear part of launcher
 
-5) Insert the locking pin into the hole in the middle and back of the launcher.
+5) Insert the locking pin into the hole in the middle and rear part of the launcher.
 
 6) Place the launcher on a flat surface so that the UAV is launched against the wind. Make sure that the launcher is stable on the ground and that its guide has no roll. If necessary, bury one of the supports to align the launcher.
 

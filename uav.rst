@@ -1,6 +1,7 @@
 UAV
 ============
 
+
 Parts
 ---------------------------
 
@@ -49,7 +50,7 @@ Assembly
    :width: 400
    :alt: Установка килей 
 
-   Установка килей
+   Installation of keels
 
 
 7) Connect the cable connectors of the wings into the appropriate slots of the autopilot.
@@ -71,10 +72,10 @@ Assembly
    :width: 400
    :alt: Подключение питания
 
-   Installing SD card . Installing the battery. Connecting the battery.
+   Installing SD card. Installing the battery. Connecting the battery.
 
 11) Set up the camera (see section :doc:`camera`). Place the camera in the cradle.
-12) Close the top cover of the fuselage. To do this, first fix the rear part in the grooves, then secure the cover with rubber clamps. Make sure that the locking pins on the top cover углубились в соответствующие выемки in wings.
+12) Close the top cover of the fuselage. To do this, first fix the rear part in the grooves, then secure the cover by rubber locks. Make sure that the locking pins on the top cover углубились в соответствующие выемки in wings.
 
 .. figure:: _static/_images/asmbl7.png
    :align: center
@@ -85,8 +86,6 @@ Assembly
 
 
 UAV ready for pre-launch check.
-
-
 
 
 Parachute system
@@ -104,10 +103,10 @@ Components of the parachute system:
    4 – straps; 
    5 – locking ring; 
    6 – long static line; 
-   7 – short static line  with the unhook ring system.
+   7 – short static line with the unhook ring system.
 
 
-.. attention:: Before laying the parachute, make sure that the parachute dome, the slings and the fastening of the slings to the dome are not damaged. Купол и стропы должны быть сухими, на них не должно быть бензиновых или масляных пятен. В случае, если укладка парашюта производилась более чем за 10 суток до вылета, или комплекс перевозился авиационным транспортом, разверните парашют и уложите его заново.
+.. attention:: Before laying the parachute, make sure that the parachute dome, the slings and the fastening of the slings to the dome are not damaged. The dome and slings should be dry and clean. В случае, если укладка парашюта производилась более чем за 10 суток до вылета, или комплекс перевозился авиационным транспортом, разверните парашют и уложите его заново.
 
 
 ****Packing a parachute****
@@ -133,7 +132,7 @@ Components of the parachute system:
 
    Складывание купола пополам второй раз
 
-7) In the result, the  shroud lines should be collected in 4 beam with 4  shroud lines each.
+7) In the result, the shroud lines should be collected in 4 beam with 4 shroud lines each.
 
 .. figure:: _static/_images/para4.png
    :align: center
@@ -191,6 +190,7 @@ Components of the parachute system:
 
    Складывание купола «гармошкой»
 
+
 Installing the parachute in the UAV
 -------------------------------------
 
@@ -241,7 +241,7 @@ Installing the parachute in the UAV
    Укладка парашюта
 
 8) Вставьте выступ на задней части крышки парашютного отсека в паз на корпусе БВС и опустите крышку. При необходимости заправьте края купола или фал под крышку.
-   Плотно прижмите крышку к фюзеляжу БВС и зафиксируйте, аккуратно повернув поводок машинки отцепа.
+   Плотно прижмите крышку к фюзеляжу БВС и зафиксируйте, аккуратно повернув servo horn.
 
 .. figure:: _static/_images/param6.png
    :align: center
