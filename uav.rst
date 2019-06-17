@@ -220,7 +220,7 @@ Installing the parachute in the UAV
    Locking the loop in the lock
 
 
-.. note:: Make sure the release system lock is securely locked. To do that, take parachute canopy and make some short sharp jerks.
+.. note:: Make sure the release system lock is securely locked. To do that, take the parachute dome and make some short sharp jerks.
 
 6) Carrfully pack the ropes of parachute system and rigging lines.
 
@@ -247,4 +247,4 @@ Installing the parachute in the UAV
 
    Fixing the cover of the parachute compartment
 
-.. attention:: Put salient in rear part of cover parachute compartment in slot in UAV body and close the cover. the edges of canopy and should not stick out.
+.. attention:: Put salient in rear part of cover parachute compartment in slot in UAV body and close the cover. The edges of dome and should not stick out.
