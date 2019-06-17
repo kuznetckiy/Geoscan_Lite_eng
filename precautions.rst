@@ -13,10 +13,10 @@ Safety rules
 * choose the starting point without objects in the ±30° sector on the take-off path;
 
 
-* the launch of the damaged complex is prohibited;
+* do not launch the UAV if any malfunction detected;
 
 
-* before installing the rubber cords of the catapult, make sure that the safety lock is inserted. Remove the safety lock only before start;
+* before straininthe the catapult rubber cords, make sure that the safety lock is plugged in. Safety lock must stay plugged in until the launch moment; 
 
 
 * after connecting the battery power supply to the UAV is prohibited to be in the plane of rotation of the blades of the propeller UAV;

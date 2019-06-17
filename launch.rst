@@ -6,7 +6,7 @@ To launch GEOSCAN Lite, follow the instructions:
 
 1) Charge the battery and make sure it works correctly (see :doc:`charger`, section **Battery check**).
 2) Plan your flight task using Geoscan Planner (see :doc:`planner`). Be sure to specify the route of landing. Save the flight task to load it quickly before flight.
-3) Open the transport bag and разверните GCS.
+3) Open the transport bag and deploy GCS.
 4) Assemble the launcher (see :doc:`catapult`). Directly before starting, install the rubber cords and pull them on.
 5) Assemble the UAV (see :doc:`uav`). Install the parachute.
 6) Format a SD card in the camera. Connect the camera connector to the UAV. Turn the camera on. Set up camera (see :doc:`camera`). Insert the camera in the cradle.

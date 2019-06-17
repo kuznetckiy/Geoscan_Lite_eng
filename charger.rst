@@ -35,7 +35,7 @@ Safety requirements
 The charger has set up from the factory. If the settings are off, follow the instructions to restore them.
 
 Preset of the battery charger
-----------------------------------------------------
+---------------------------------
 
 Setting the charger by selecting the appropriate menu item using the touch screen. When you turn on the charger, you will see main menu.
 

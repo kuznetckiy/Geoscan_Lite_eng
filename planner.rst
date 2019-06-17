@@ -121,7 +121,7 @@ When constructing a route, a rising and a lowering of UAV is displayed as the cy
    :align: center
    :width: 500
 
-   Цилиндры набора высоты и снижения
+   Climb and descent cylinders
 
 Adding and removing polygon vertices.
 __________________________________________
@@ -178,7 +178,7 @@ One of the vertices of the polygon will be highlighted and a rotation marker wil
    :align: center
    :width: 500
 
-   Корректировка направления облета
+   Adjusting the direction of flight
 
 As a Result, there will be a new route to fly around the area in the specified direction.
 
@@ -304,15 +304,15 @@ When ** Wind measure ** is activated, the duration is automatically set to 0. Th
    :align: center
    :width: 500
 
-   Точка измерения ветра
+   The point of wind measurement
 
-Функция бесконечного ожидания служит для постоянного удержания точки (пока не сработает отказ по низкому заряду АКБ, приводящий к автоматическому возврату). При этом цвет точки ожидания сменяется на темно-синий.
+Infinite waiting
 
 .. figure:: _static/_images/planner25.png
    :align: center
    :width: 500
 
-   Точка бесконечного ожидания
+   Point of infinite waiting
 
 .. attention:: It is recommended to set a point of waiting with the wind measurement before each flight element at an altitude of the flight element. Taking into account the wind measurement data, UAV will go smoother along the route.
 
@@ -360,7 +360,7 @@ Pre-launch preparation
    Start preparing Wizard launch
 
 Follow the instructions of the Start preparing Wizard (most tests are runned automatically).
-Set the radius of the automatic parachute detaching and время автономного полета (time in flight without the connection between the GCS and UAV).
+Set the radius of the automatic parachute detaching and autonomous flight time (time in flight without the connection between the GCS and UAV).
 After fight preparation completion, place UAV on the launcher.
 
 Flight
@@ -392,5 +392,3 @@ The telemetry panel displays **CATAPULT** mode.
 
 
 UAV will take off.
-
-

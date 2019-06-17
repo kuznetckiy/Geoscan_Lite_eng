@@ -15,7 +15,7 @@ Use the control wheel to set the following parameters:
    "Exposition", "1/800"
    "ISO", "Auto"
 
-* In Photo menu (tab 2), set **Focus Mode** - *Manual focus*.
+* In Photo menu (tab 2) set **Focus Mode** - *Manual focus*.
 
 .. figure:: _static/_images/menu4.png
    :align: center
@@ -23,7 +23,7 @@ Use the control wheel to set the following parameters:
 
    Focus Mode
 
-* In Custom settings menu (tab 1), disable **Automatic preview**.
+* In Custom settings menu (tab 1) disable **Automatic preview**.
 
 .. figure:: _static/_images/menu5.png
    :align: center
@@ -40,7 +40,7 @@ Use the control wheel to set the following parameters:
 
    Turn on the shutter without a lens
 
-* In Custom Settings menu (tab 6), set the **MOVIE** button - **Video mode only**.
+* In Custom Settings menu (tab 6) set the **MOVIE** button - **Video mode only**.
 
 .. figure:: _static/_images/menu7.png
    :align: center
@@ -72,7 +72,7 @@ The following options are set in Photo menu:
 
 * **Quality** - **RAW** in Photo menu (Tab 1);
 
-.. .. figure ::_static/_images /menu 10.png
+.. .. figure ::_static/_images /menu10.png
    : align: center
    : width: 400
 
@@ -81,3 +81,9 @@ The following options are set in Photo menu:
 * **ISO** up to 400 (press the control wheel to the right to select);
 
 * **Exposure compensation** from EV **+1** to EV **+2** (press the control wheel down to select).
+
+
+Camera offset correction
+-------------------------------------
+
+Camera sensor and the geodetic receiver antenna positions are shown on the blueprint:

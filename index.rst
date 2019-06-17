@@ -36,7 +36,7 @@ Kit
 * UAV transport bag
 * Launcher in transport bag
 * Customized Sony А6000 camera
-* Battery LiPo 14,8 В
+* Battery LiPo 14.8 V
 * RCL modem with antenna
 * Battery Charger
 * Geoscan Planner
@@ -58,21 +58,21 @@ Technical parameters
    :header: "Characteristic", "Value"
 
    "Type of UAV", "flying wing"
-   "Speed of flight", "72 - 108 km/h"
-   "Max takeoff weight", "3,1 kg"
-   "Maximum payload mass", "0,8 kg"
-   "Photo shooting area in one flight","3 - 9 km²"
+   "Speed of flight", "64 - 130 km/h"
+   "Max takeoff weight", "3.1 kg"
+   "Maximum payload mass", "0.8 kg"
+   "Photo shooting area in one flight","up to 9 km²"
    "Max wind speed","12 m/s"
-   "Wingspan", "1,38 m"
+   "Wingspan", "1.38 m"
    "Minimum safe flight altitude","100 m"
    "Maximum flight altitude","4000 m"
    "Engine","electric, brushless"
-   "Battery","LiPo 14,8 V"
+   "Battery","LiPo 14.8 V"
    "Time of preparation for takeoff","10 min"
    "Flight duration", "up to 60 min"
-   "Maximum route length","70 km"
+   "Maximum flight length","70 km"
    "Takeoff mechanism","catapult"
-   "Landing","on a parachute, in automatic mode"
+   "Landing","parachute"
    "Operating temperature range:","-20 to +40 °C"
 
 

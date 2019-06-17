@@ -32,55 +32,56 @@ Assembly
    :width: 400
    :alt: Fuselage
 
-   Вставка соединительного штыря
+   Puting of the connecting rod
 
-5) Put the wings on the mounting rods and move to the fuselage so that it went into the grooves in the fuselage and rest against the limiters. 
+5) Put the wings on the mounting rods and move them to the fuselage limiters.
 
 .. figure:: _static/_images/asmbl3.png
    :align: center
    :width: 600
-   :alt: Installing wings
+   :alt: Installation of the wings
 
-   Установка консоли крыла
+   Installation of the wings
 
-6) Attach the keels to wings. Make sure the keels are secured by magnets.
+6) Attach the fins and fix them in place. Make sure the fins are secured by magnets.
 
 .. figure:: _static/_images/asmbl4.png
    :align: center
    :width: 400
-   :alt: Установка килей 
+   :alt: Installation of the keels
 
-   Installation of keels
+   Installation of the keels
 
 
-7) Connect the cable connectors of the wings into the appropriate slots of the autopilot.
+7) Connect cable connectors of the wings into the appropriate slots of the autopilot.
+Don’t forget to connect high precision GNSS receiver plug.
 
 .. figure:: _static/_images/asmbl5.png
    :align: center
    :width: 400
-   :alt: Подключение кабелей консолей
+   :alt: Connection of the cables
 
    Connection of the cables
 
 
-8) Remove the memory cards from the autopilot and camera, format them, and put them back in slots.
-9) Install battery and secure it by the textile clasp.
-10) Connect the power connector of the battery.
+8) Remove memory cards from autopilot and camera, format them, and put them back in slots.
+9) Install battery and lock it by textile clasp.
+10) Connect power connector to the battery.
 
 .. figure:: _static/_images/asmbl6.png
    :align: center
    :width: 400
-   :alt: Подключение питания
+   :alt: Power connection
 
-   Installing SD card. Installing the battery. Connecting the battery.
+   Installation the SD card and the battery. Connection the battery.
 
-11) Set up the camera (see section :doc:`camera`). Place the camera in the cradle.
-12) Close the top cover of the fuselage. To do this, first fix the rear part in the grooves, then secure the cover by rubber locks. Make sure that the locking pins on the top cover углубились в соответствующие выемки in wings.
+11) Set up camera (see section :doc:`camera`). Place the camera in the cradle.
+12) Clamp top cover on and fasten the rubber locks.
 
 .. figure:: _static/_images/asmbl7.png
    :align: center
    :width: 400
-   :alt: Закрытие крышки фюзеляжа
+   :alt: Closing of the top cover
 
    Closing of the top cover
 
@@ -97,24 +98,23 @@ Components of the parachute system:
    :align: center
    :width: 300
 
-   1 – the cover of the parachute compartment; 
-   2 – parachute dome; 
-   3 – pockets for laying straps; 
-   4 – straps; 
-   5 – locking ring; 
-   6 – long static line; 
+   1 – cover of the parachute compartment;
+   2 – parachute dome;
+   3 – pockets for laying rigging lines;
+   4 – rigging lines;
+   5 – locking ring;
+   6 – long static line;
    7 – short static line with the unhook ring system.
 
 
-.. attention:: Before laying the parachute, make sure that the parachute dome, the slings and the fastening of the slings to the dome are not damaged. The dome and slings should be dry and clean. В случае, если укладка парашюта производилась более чем за 10 суток до вылета, или комплекс перевозился авиационным транспортом, разверните парашют и уложите его заново.
+.. attention:: Before laying the parachute, make sure that the parachute dome, rigging cables and their attachment to the dome are not damaged. The dome and rigging lines should be dry and clean. Re-lay the parachute if the previous packaging is more than 10 days ago, or you were carrying the complex in an airplane.
 
-
-****Packing a parachute****
+****Packing of the parachute****
 
 1) Check that the parachute is not damaged.
-2) Make sure the  shroud lines are not tangled and the parachute cover is on the outside of the dome.
-3) Make sure that in the process of laying the parachute shroud lines are not tangled.
-4) Control the position of the  shroud lines pockets. They must remain on the outside of the folded dome.
+2) Make sure the rigging lines are not tangled and the parachute cover is on the outside of the dome.
+3) Make sure that in the process of laying the parachute rigging lines are not tangled.
+4) Control the position of the rigging lines pockets. They must remain on the outside of the folded dome.
 5) Straighten the dome and fold it in half, aligning the cutouts with each other.
 
 
@@ -122,7 +122,7 @@ Components of the parachute system:
    :align: center
    :width: 400
 
-   Складывание купола пополам
+   Folding the dome in half
 
 6) Fold the dome in half and align the edges.
 
@@ -130,49 +130,48 @@ Components of the parachute system:
    :align: center
    :width: 400
 
-   Складывание купола пополам второй раз
+   Folding the dome in half second time
 
-7) In the result, the shroud lines should be collected in 4 beam with 4 shroud lines each.
+As the result, the rigging lines should be collected in 4 beam with 4 shroud lines each.
 
 .. figure:: _static/_images/para4.png
    :align: center
    :height: 350
-
+ 
    Result
 
-8) Еще раз сложите купол пополам так, чтобы карманы для укладки строп оказались снаружи.
+7) Fold the dome in half again, so that the pockets for laying the rigging lines were outside.
 
 .. figure:: _static/_images/para5.png
    :align: center
    :width: 250
 
-   Складывание купола карманами наружу
+   Folding the dome pockets out
 
-9) Fold the dome as see a picture.
+8) Fold the dome as see a picture.
 
 .. figure:: _static/_images/para6.png
    :align: center
    :width: 400
 
-   Складывание купола «гармошкой»
+   Folding the dome
 
-Убедитесь, что стропы не перекручены и не перехлестнуты. При необходимости расправьте стропы.
+Make sure that in the process of laying the parachute rigging lines are not tangled. If necessary, straighten the lines out.
 
-10) Уложите стропы в карман. Для этого отмерьте длину пучка строп, превышающую глубину кармана. Сложите пучок пополам и протяните в карман так, чтобы перегиб пучка на несколько сантиметров выступал с противоположной стороны кармана. При необходимости устраните слабину строп у края купола, подтянув их за перегиб с противоположной стороны пучка.
+9) Put rigging lines in the pocket as you can see in picture. 
 
 .. figure:: _static/_images/para8.png
    :align: center
    :width: 400
 
-   Укладка строп в карман
+   Put rigging lines in the pocket
 
-11) Передвиньте стопорное кольцо к куполу. Заправьте оставшуюся часть строп в свободный карман купола. Для этого сложите оставшуюся часть пополам и проденьте в карман так, чтобы оплетка на узле соединения строп с фалом касалась кармана.
-
+10) Move holding ring to canopy. Put straps in empty canopy pocket.
 .. figure:: _static/_images/para7.png
    :align: center
    :width: 400
 
-   Протягивание строп через карман
+   Pulling the rigging lines through the pocket
 
 .. figure:: _static/_images/para9.png
    :align: center
@@ -180,73 +179,72 @@ Components of the parachute system:
 
    Result
 
-После укладки оставшейся части строп в карман купола кольцо должно находиться между витками строп.
+After laying the remaining part of the lanyard into the pocket of the dome ring is positioned between the loops of the rigging lines.
 
-12) Сложите купол «гармошкой», как показано на рисунке.
+11) Fold the dome as see a picture.
 
 .. figure:: _static/_images/para10.png
    :align: center
    :width: 400
 
-   Складывание купола «гармошкой»
+   Folding the dome
 
 
 Installing the parachute in the UAV
 -------------------------------------
 
 1) Turn the UAV so that the parachute compartment was on top.
-2) Возьмите в руки карабин подвеса и расправьте тросики.
-3) Проденьте конец короткого фала парашюта в карабин подвеса со стороны передней части БВС.
+2) Pick up a carabiner and straighten the rigging lines.
+3) Put short static line end in carabiner (see a picture).
 
 .. figure:: _static/_images/param1.png
    :align: center
    :width: 400
 
-   Продевание конца короткого фала в карабин
+   Short static line end in carabiner
 
-4) Проденьте конец короткого фала через кольцо системы отцепа со стороны двигателя. 
+4) Put short static line end in unhook system ring (see a picture).
 
 .. figure:: _static/_images/param2.png
    :align: center
    :width: 400
 
-   Продевание конца короткого фала через кольцо системы отцепа
+    Turning end of the short fall into ring of deattaching system
 
-5) Пропустите конец короткого фала через отверстие системы отцепа и защелкните петлю на его конце между половинками замка.
+5) Put short lanyard end in release system ring and lock the rope between halfs of locker.
 
 .. figure:: _static/_images/param3.png
    :align: center
    :width: 400
 
-   Защелкивание петли в замке
+   Locking the loop in the lock
 
-.. attention:: Будьте внимательны при переноске и установке БВС на пусковую установку. Случайное нажатие на язычок системы отцепа может привести к открытию замка системы отцепа и, как следствие, к преждевременному отделению парашюта при посадке БВС.
 
-.. note:: Убедитесь, что замок системы отцепа надежно защелкнут. Для этого поднимите БВС за фал парашюта и сделайте несколько коротких резких рывков вверх.
+.. note:: Make sure the release system lock is securely locked. To do that, take parachute canopy and make some short sharp jerks.
 
-6) Аккуратно уложите тросики подвесной системы и фал на дно парашютного отсека.
+6) Carrfully pack the ropes of parachute system and rigging lines.
 
 .. figure:: _static/_images/param4.png
    :align: center
    :width: 400
 
-   Укладка тросиков подвесной системы
+   Packing the ropes of parachute system
 
-7) Уложите сверху сложенный парашют так, чтобы основание парашюта с кольцом оказалось на дне парашютного отсека.
+7) Pack parachute in top to canopy of the parachute on the deep of parachute compartment. Lay on top of the folded parachute so that the base of the parachute with the ring was at the bottom of the parachute compartment.
 
 .. figure:: _static/_images/param5.png
    :align: center
    :width: 400
 
-   Укладка парашюта
+   Parachute laying
 
-8) Вставьте выступ на задней части крышки парашютного отсека в паз на корпусе БВС и опустите крышку. При необходимости заправьте края купола или фал под крышку.
-   Плотно прижмите крышку к фюзеляжу БВС и зафиксируйте, аккуратно повернув servo horn.
+8) Put the rear part of parachute compartment in UAV and hold down cover. If it needs заправьте края купола или фал под крышку.
+   Hold cover to fuselage UAV and lock on by servo horn.
 
 .. figure:: _static/_images/param6.png
    :align: center
    :width: 400
 
-   Фиксация крышки парашютного отсека
+   Fixing the cover of the parachute compartment
 
-.. attention:: It is strictly forbidden to turn the parachute compartment servo by hand when the power supply of the UAV is turned on.
+.. attention:: Put выступ in rear part of cover parachute compartment in паз на UAV body and close the cover. the edges of canopy and should not stick out.
