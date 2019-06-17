@@ -53,7 +53,7 @@ Assembly
    Installation of the keels
 
 
-7) Connect cable connectors of the wings into the appropriate slots of the autopilot.
+7) Connect the cable connectors of the wings into the appropriate slots of the autopilot.
 Don’t forget to connect high precision GNSS receiver plug.
 
 .. figure:: _static/_images/asmbl5.png
@@ -238,7 +238,7 @@ Installing the parachute in the UAV
 
    Parachute laying
 
-8) Put the rear part of parachute compartment in UAV and hold down cover. If it needs заправьте края купола или фал под крышку.
+8) Put the rear part of parachute compartment in UAV and hold down cover.
    Hold cover to fuselage UAV and lock on by servo horn.
 
 .. figure:: _static/_images/param6.png
@@ -247,4 +247,4 @@ Installing the parachute in the UAV
 
    Fixing the cover of the parachute compartment
 
-.. attention:: Put выступ in rear part of cover parachute compartment in паз на UAV body and close the cover. the edges of canopy and should not stick out.
+.. attention:: Put salient in rear part of cover parachute compartment in slot in UAV body and close the cover. the edges of canopy and should not stick out.
