@@ -22,8 +22,8 @@ The UAV will take off.
 After that, the cords can be removed from the launcher by disconnecting the carbine from the cable and the loop from the carriage.
 
 
-Disassembly of the UAV after the flight task
-====================================================
+Disassembly of the UAV
+========================
 
 1) Remove the top cover of the fuselage. To do this, unclasp the rubber locks. After that remove the back of the cover from the grooves.
 2) Turn the power off.
