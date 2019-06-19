@@ -1,7 +1,7 @@
 General information
 ==========================
 
-Geoscan Lite – aerial photography complex that allows you to build a photographic map of the area, a matrix of heights or a 3D model of the territory.
+Geoscan Lite – compact aerial photography complex.
 
 **Application**
 
@@ -35,6 +35,7 @@ Kit
 * Spare parts and accessories:
 
    * Fin - 2 PCs;
+   * Rubber cords for catapult;
    * Stop peg for launcher;
    * Pitot tube cleaning rod (wire, 150 mm);
    * Pitot tube (brass, 70 mm);
@@ -49,7 +50,7 @@ Technical parameters
    :header: "Characteristic", "Value"
 
    "Type of UAV", "flying wing"
-   "Speed of flight", "64 - 130 km/h"
+   "Speed of flight", "72 - 108 km/h"
    "Max takeoff weight", "3.1 kg"
    "Maximum payload mass", "0.8 kg"
    "Photo shooting area in one flight","up to 9 km²"
@@ -61,9 +62,9 @@ Technical parameters
    "Battery","LiPo 14.8 V"
    "Time of preparation for takeoff","10 min"
    "Flight duration", "up to 60 min"
-   "Maximum route length","70 km"
+   "Maximum flight length","70 km"
    "Takeoff mechanism","catapult"
-   "Landing","on a parachute, in automatic mode"
+   "Landing","parachute,in automatic mode"
    "Operating temperature range:","-20 to +40 °C"
 
 
@@ -77,7 +78,7 @@ After each flight, visually inspect UAV for a damage.
 
 In case of damage to the blades of the screw or keel, you can replace them yourself, using the spare parts and tools from the kit.
 
-If structural damage to the airframe or systems is detected, contact witch the support.
+If structural damage to the airframe or systems is detected please contact support service.
 
 After 80 flights it is recommended to send the UAV to the manufacturer for inspection and maintenance.
 
@@ -88,4 +89,4 @@ Storage
 
 Complex Geoscan Lite (without battery) and launcher are recommended to be stored in a transport bags in dry rooms at a temperature of 5 to 25 °C and relative humidity not more than 80% without condensation. Shelf life - 2 years.
 
-Batteries should be stored in a cool, dry place, free from direct sunlight, at a temperature of 5 to 25 °C and a relative humidity of 80%, without condensation. The optimum temperature — from 5 to 10 °C. The optimum voltage level of the battery when placing the battery for storage: 15.12 V. Shelf Life - 1 year.
+Batteries should be stored in a cool and dry place, without direct sunlight, at a temperature of 5 to 25 °C and a relative humidity of 80% without condensation. The optimum temperature — from 5 to 10 °C. The optimum voltage level when placing the battery to storage: 15.12 V. Shelf Life - 1 year.

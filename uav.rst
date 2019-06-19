@@ -167,6 +167,7 @@ Make sure that in the process of laying the parachute rigging lines are not tang
    Put rigging lines in the pocket
 
 10) Move holding ring to canopy. Put straps in empty canopy pocket.
+
 .. figure:: _static/_images/para7.png
    :align: center
    :width: 400
@@ -209,7 +210,7 @@ Installing the parachute in the UAV
    :align: center
    :width: 400
 
-    Turning end of the short fall into ring of deattaching system
+   Turning end of the short fall into ring of deattaching system
 
 5) Put short lanyard end in release system ring and lock the rope between halfs of locker.
 
