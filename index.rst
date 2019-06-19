@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Assembly and use of Geoscan Lite
+Geoscan Lite. Assembly and aplication
 =====================================================
 
 General information
@@ -11,35 +11,35 @@ General information
 .. image:: _static/_images/101.png
    :align: center
 
-Geoscan Lite – aerial photography complex that allows you to build a photographic map of the area, a matrix of heights or a 3D model of the territory.
+Geoscan Lite – aerial photography complex that allows you to build a photographic map of the area, an altitude matrix or a 3D model of the territory.
 
 **Application**
 
-Complex Geoscan Lite is designed to obtain geolinked photos of objects and aerial photography.
+Complex Geoscan Lite is designed to obtain georeferenced photos of objects and aerial photography.
 
 
 **Field of application**
 
 The data obtained using the complex can be used for:
 
-* Assessment of terrain;
-* Perform aerial photography of the area with the fixation of the moments of photographing to obtain georeferenced photos;
-* Creation of orthophotos and digital terrain models based on aerial photography;
-* Creation of height maps;
-* Create 3D terrain models;
-* Calculation of rock volumes in quarries and bulk objects.
+* Terrain evaluaton;
+* Aerial photography with precise time stamps for georeferenced images;
+* Orthophotos and digital terrain models creation;
+* Altitude maps creation;
+* 3D terrain models ;
+* Volumetric calculations for quarries and fills.
 
 Kit
 ---------------------
 
-* Unmanned Aerial Vehicle (UAV) Geoscan Lite
+* Geoscan Lite unmanned aerial vehicle (UAV) 
 * UAV transport bag
 * Launcher in transport bag
 * Customized Sony А6000 camera
-* Battery LiPo 14.8 V
+* 14.8 V LiPo battery  
 * RCL modem with antenna
-* Battery Charger
-* Geoscan Planner
+* Battery charger
+* Geoscan Planner software
 * Folding rack for UAV assembly
 * Spare parts and accessories:
 
@@ -47,7 +47,7 @@ Kit
    * Stop peg for launcher;
    * Pitot tube cleaning rod (wire, 150 mm);
    * Pitot tube (brass, 70 mm);
-   * Blades 10x8;
+   * Propeller blades 10x8;
    * USB cable.
 
 
@@ -60,17 +60,17 @@ Technical parameters
    "Type of UAV", "flying wing"
    "Speed of flight", "64 - 130 km/h"
    "Max takeoff weight", "3.1 kg"
-   "Maximum payload mass", "0.8 kg"
+   "Max payload mass", "0.8 kg"
    "Photo shooting area in one flight","up to 9 km²"
    "Max wind speed","12 m/s"
    "Wingspan", "1.38 m"
-   "Minimum safe flight altitude","100 m"
-   "Maximum flight altitude","4000 m"
+   "Min safe flight altitude","100 m"
+   "Max flight altitude","4000 m"
    "Engine","electric, brushless"
-   "Battery","LiPo 14.8 V"
-   "Time of preparation for takeoff","10 min"
+   "Battery","14.8 V LiPo "
+   "Preparation time before takeoff","10 min"
    "Flight duration", "up to 60 min"
-   "Maximum flight length","70 km"
+   "Max flight length","70 km"
    "Takeoff mechanism","catapult"
    "Landing","parachute"
    "Operating temperature range:","-20 to +40 °C"
@@ -79,25 +79,25 @@ Technical parameters
 
 
 
-Maintenance service
+Maintenance
 -------------------------
 
 After each flight, visually inspect UAV for a damage.
 
-In case of damage to the blades of the screw or keel, you can replace them yourself, using the spare parts and tools from the kit.
+If propeller blades or keel is damaged, you can replace it yourself using spare parts and tools from the kit.
 
-If structural damage to the airframe or systems is detected, contact witch `the support <https://www.geoscan.aero/en/support>`_.
+If structural damage to the airframe or systems is detected, contact ` Geoscan support <https://www.geoscan.aero/en/support>`_.
 
-After 80 flights it is recommended to send the UAV to the manufacturer for inspection and maintenance.
+After 80 flights it is recommended to send your UAV to the manufacturer for inspection and maintenance.
 
 
 
 Storage
 -----------
 
-Complex Geoscan Lite (without battery) and launcher are recommended to be stored in a transport bags in dry rooms at a temperature of 5 to 25 °C and relative humidity not more than 80% without condensation. Shelf life - 2 years.
+Geoscan Lite complex (without battery) and launcher are recommended to be stored in a transport bags in dry rooms at a temperature of 5 to 25 °C and relative humidity not more than 80% without condensation. Shelf life - 2 years.
 
-Batteries should be stored in a cool, dry place, free from direct sunlight, at a temperature of 5 to 25 °C and a relative humidity of 80%, without condensation. The optimum temperature — from 5 to 10 °C. The optimum voltage level of the battery when placing the battery for storage: 15.12 V. Shelf Life - 1 year.
+Batteries should be stored in a cool, dry place, away from direct sunlight, at a temperature of 5 to 25 °C and a relative humidity of 80%, without condensation. Optimal temperature is from 5 to 10 °C. Optimum battery storage voltage level: 15.12 V. Shelf Life - 1 year.
 
 .. toctree::
    :maxdepth: 2
