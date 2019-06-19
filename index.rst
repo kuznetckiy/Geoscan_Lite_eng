@@ -84,7 +84,7 @@ Maintenance
 
 After each flight, visually inspect UAV for a damage.
 
-If propeller blades or keel is damaged, you can replace it yourself using spare parts and tools from the kit.
+If propeller blades or fin is damaged, you can replace it yourself using spare parts and tools from the kit.
 
 If structural damage to the airframe or systems is detected, contact ` Geoscan support <https://www.geoscan.aero/en/support>`_.
 
