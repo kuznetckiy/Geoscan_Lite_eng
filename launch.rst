@@ -19,7 +19,7 @@ To launch GEOSCAN Lite, follow the instructions:
 The UAV will take off.
 
 11. After starting the UAV, loosen the tension of the rubber cords. To do this, hold the winch handle with one hand, and the second - remove the winch stopper and smoothly unwind the tension cable.
-After that, the harnesses can be removed from the launcher by disconnecting the carbine from the cable and the loop from the carriage.
+After that, the cords can be removed from the launcher by disconnecting the carbine from the cable and the loop from the carriage.
 
 
 Disassembly of the UAV after the flight task
@@ -27,16 +27,16 @@ Disassembly of the UAV after the flight task
 
 1) Remove the top cover of the fuselage. To do this, unclasp the rubber locks. After that remove the back of the cover from the grooves.
 2) Turn the power off.
+3) Close the top cover of the fuselage by inserting the back of the cover into the grooves and clasp the rubber locks.
 
 SD can be removed from the camera to process the shooting results.
 
-3) Fold the dome and carefully place in the parachute compartment.
-4) Close the cover of the parachute compartment by moving the servo horn.
-5) Close the top cover of the fuselage by inserting the back of the cover into the grooves and clasp the rubber locks.
+4) Fold the dome and carefully place in the parachute compartment.
+5) Close the cover of the parachute compartment by moving the servo horn.
 
-UAV can be moved to the stand for disassembly.
+UAV can be moved to the folding rack for disassembly.
 
-6) Place the UAV on a stand.
+6) Place the UAV on the folding rack.
 7) Detach the keels, pulling the magnetic clip.
 8) Remove the top cover of the fuselage.
 9) Remove the battery by unfastening the textile clasp.

@@ -16,10 +16,10 @@ Safety requirements
 
 **Battery**
 
-* Avoid depressurization and deformation of battery elements (do not drop, do not pierce).
+* Avoid depressurization and deformation of battery elements (don't drop, don't pierce).
 * Do not allow the battery to heat more than 60 degrees.
 * Avoid overcharging the battery (over 16.8V). Do not allow the battery discharge below 12V.
-* Don't store in a discharged state, with long-term storage of the battery (a month or more) must be transferred to the **Storage** mode.
+* Don't store in a discharged state. For long-term storage of the battery (a month or more) it must be transferred to the **Storage** mode by the battery charger.
 * Don't charge with currents exceeding the load capacity (not more than 100% of the capacity, it is recommended to charge 50% of the capacity to extend the service life). Exceeding the permissible charge current will heat the battery over 60 degrees.
 
 .. attention:: Failure to comply with the above instructions may result in fire or complete failure of the battery.
@@ -32,12 +32,12 @@ Safety requirements
 * Don't operate the charger in direct sunlight.
 * Don't leave the charger without supervision.
 
-The charger has set up from the factory. If the settings are off, follow the instructions to restore them.
+The charger is set up from the factory. If the settings are different, follow the instructions to config preset.
 
 Preset of the battery charger
 ---------------------------------
 
-Setting the charger by selecting the appropriate menu item using the touch screen. When you turn on the charger, you will see main menu.
+ When you turn on the charger, you will see main menu. You can configure the charger by selecting sections in the menu item using the touch screen.
 
 .. figure:: _static/_images/charge1.png
    :align: center

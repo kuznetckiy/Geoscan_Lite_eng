@@ -56,7 +56,7 @@ When starting the UAV, the jerk of the rubber cords leads to the throwing of the
 
 .. attention:: Before each start of the UAV make sure that the carriage slides on the rails without clinging to the joints of parts of the launcher.
 
-9) Move the carriage down until it locks into the lock.
+9) Move the carriage down until it locks in the lock.
 10) Insert the safety pin into the starting mechanism.
 
 .. figure:: _static/_images/catapult8.png
@@ -65,22 +65,22 @@ When starting the UAV, the jerk of the rubber cords leads to the throwing of the
 
    Insert the safety pin
 
-.. attention::  The lock may accidentally trigger, if you does not insert the pin!
+.. attention::  If you does not insert the pin, the lock may accidentally trigger!
 
 
 11) Release the winch stopper and unwind the tension cable.
 12) Take the rubber cords. Straighten the cords. Make sure that the cords are not overlapped.
-13) With a rope ring at the end of the rubber cords make a loop and hook the carriage.
+13) Use the rope ring at the end of the rubber cord to make loop and hook the carriage.
 
 .. figure:: _static/_images/catapult10.png
    :align: center
    :width: 250
 
-   Loop on rope ring
+   Rope ring loop
 
 
-14) Connect the another end of the rubber cords to the end of the starting cable by a carabiner. The starting cable must pass through the roller. The carbine must be immured.
-15) Similarly, attach the second rubber cords.
+14) Connect the another end of the rubber cord to the end of the starting cable by a carabiner. The starting cable must pass through the roller. The carbine must be immured.
+15) Similarly, attach the second rubber cord.
 16) Put the handle of the winch reel on the axle and slide until the reinforcement mechanism clicks.
 
 .. figure:: _static/_images/catapult11.png
@@ -93,21 +93,21 @@ When starting the UAV, the jerk of the rubber cords leads to the throwing of the
 Preparation of the launcher to launch the UAV
 -----------------------------------------------
 
-.. attention:: In order to ensure the safety of work on the launch pad and increase the life of rubber cords, pull the cords immediately before the start after the successful pre-launch preparation.
+.. attention:: In order to ensure the safety of work on the launch pad and increase the life of rubber cords, pull the cords only immediately before the launch after the successful pre-launch preparation.
 
 1) Move the winch stopper to the cable tension position.
 
-2) pull the rubber tubing by rotating the handle of the reel of winch. In case of contact with the cords between the roller and the guide part of the launcher or break from the roller, it is necessary to stop the tension of the harnesses. The broken harness should be placed on the roller, after which you can continue to pull the harnesses of the launcher.
+2) Pull the rubber cords by rotating the winch reel handle. In case of contact with the cords between the roller and the guide part of the launcher or break from the roller, it is necessary to stop the tension of the cords. Displaced bands should be placed on the roller, after which you can continue to pull the cords of the launcher.
 
-You must be stop stretching of the harnesses when carbines will be opposite to the marker "STOP" engraved on the middle part of the launcher.
+You must be stop stretching of the cords when carbines will be opposite to the marker "STOP" engraved on the middle part of the launcher.
 
 Now the UAV can be placed on the launcher.
 
 
-Rules for the treatment of rubber with harnesses
+Rules of use the rubber cords
 -----------------------------------------------------
 
 * Check the condition of the rubber bands regularly. If cracks and scuffs are found, replace the damaged ring with a spare ring from the spare parts kit.
-* Don't keep the rubber harnesses stretched for a long time. Stretch the harnesses directly before placing the UAV on the launcher.
-* In the warm season, do not allow long-term exposure of rubber harnesses in direct sunlight.
-* In the cold season, do not allow the rubber bands to freeze. Keep them in a warm place prior to installation on the launcher and pull directly before starting. After starting the UAV immediately remove the bands from the launcher and put to a warm place.
+* Don't keep the rubber cords stretched for a long time. Stretch the cords directly before placing the UAV on the launcher.
+* In the warm season, do not allow long-term exposure of rubber cords in direct sunlight.
+* In the cold season, do not allow the rubber cords to freeze. Keep them in a warm place prior to installation on the launcher and pull directly before starting. After starting the UAV immediately remove the cords from the launcher and put to a warm place.
