@@ -36,8 +36,7 @@ Safety rules
 
 * avoid flying above crowded places.
 
-
-**Keep in mind the following operating precautions:**
+**Follow these the operating precautions:**
 
 * don't assemble or disassemble the UAV when the power is on;
 
