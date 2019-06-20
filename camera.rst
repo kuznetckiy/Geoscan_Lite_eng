@@ -56,7 +56,7 @@ Use the control wheel to set the following parameters:
 
    Set the time to start energy saving
 
-* In menu (tab 5), set **File Number** - **Reset**.
+* In menu (tab 5) set **File Number** - **Reset**.
 
 .. figure:: _static/_images/menu9.png
    :align: center
@@ -81,9 +81,3 @@ The following options are set in Photo menu:
 * **ISO** up to 400 (press the control wheel to the right to select);
 
 * **Exposure compensation** from EV **+1** to EV **+2** (press the control wheel down to select).
-
-
-Camera offset correction
--------------------------------------
-
-Camera sensor and the geodetic receiver antenna positions are shown on the blueprint:

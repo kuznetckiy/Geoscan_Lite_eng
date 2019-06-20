@@ -11,7 +11,8 @@ General information
 .. image:: _static/_images/101.png
    :align: center
 
-Geoscan Lite – aerial photography complex that allows you to build a photographic map of the area, an altitude matrix or a 3D model of the territory.
+
+Geoscan Lite – compact aerial photography complex.
 
 **Application**
 
@@ -44,6 +45,7 @@ Kit
 * Spare parts and accessories:
 
    * Fin - 2 PCs;
+   * Rubber cords for catapult;
    * Stop peg for launcher;
    * Pitot tube cleaning rod (wire, 150 mm);
    * Pitot tube (brass, 70 mm);
@@ -58,7 +60,7 @@ Technical parameters
    :header: "Characteristic", "Value"
 
    "Type of UAV", "flying wing"
-   "Speed of flight", "64 - 130 km/h"
+   "Speed of flight", "72 - 108 km/h"
    "Max takeoff weight", "3.1 kg"
    "Max payload mass", "0.8 kg"
    "Photo shooting area in one flight","up to 9 km²"
@@ -72,7 +74,7 @@ Technical parameters
    "Flight duration", "up to 60 min"
    "Max flight length","70 km"
    "Takeoff mechanism","catapult"
-   "Landing","parachute"
+   "Landing","parachute,in automatic mode"
    "Operating temperature range:","-20 to +40 °C"
 
 
@@ -97,7 +99,8 @@ Storage
 
 Geoscan Lite complex (without battery) and launcher are recommended to be stored in a transport bags in dry rooms at a temperature of 5 to 25 °C and relative humidity not more than 80% without condensation. Shelf life - 2 years.
 
-Batteries should be stored in a cool, dry place, away from direct sunlight, at a temperature of 5 to 25 °C and a relative humidity of 80%, without condensation. Optimal temperature is from 5 to 10 °C. Optimum battery storage voltage level: 15.12 V. Shelf Life - 1 year.
+Batteries should be stored in a cool and dry place, without direct sunlight, at a temperature of 5 to 25 °C and a relative humidity of 80% without condensation. The optimum temperature — from 5 to 10 °C. The optimum voltage level when placing the battery to storage: 15.12 V. Shelf Life - 1 year.
+
 
 .. toctree::
    :maxdepth: 2
