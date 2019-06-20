@@ -1,43 +1,43 @@
 Safety rules
 =======================
 
-**For safe use UAV, follow these operating instructions:**
+**For safe use of UAV, follow these operating instructions:**
 
 
-* only persons who have been trained according to the "Plan of theoretical and practical training of the operator to control the unmanned complex GEOSCAN Lite" can launch and maintain the UAV;
+* UAV launch and maintainence can be held only by persons trained according to the "Plan of theoretical and practical training of the operator to control the unmanned complex GEOSCAN Lite";
 
 
 * before the flight it is necessary to inspect the flight area and make sure that the planned flight path passes not less than 100 m above the terrain and high-rise objects (mountains, towers, pipes, transmission towers, etc.);
 
 
-* choose the starting point without objects in the ±30° sector on the take-off path;
+* There should be no high objects in ±30° takeoff sector. Max safe height of an object should be no more than 0.2L if L is the distance from takeoff point. 
 
 
-* do not launch the UAV if any malfunction detected;
+* do not launch the UAV if any malfunction is detected;
 
 
-* before straininthe the catapult rubber cords, make sure that the safety lock is plugged in. Safety lock must stay plugged in until the launch moment; 
+* before straining the catapult rubber cords, make sure that the safety lock is plugged in. Safety lock must stay plugged in until the launch moment; 
 
 
-* after connecting the battery power supply to the UAV is prohibited to be in the plane of rotation of the blades of the propeller UAV;
+* after connecting the battery to the UAV it is prohibited to be in the propeller blades rotation plane;
 
 
-* don't exceed operational limits of height, mass and flight time of the UAV;
+* don't exceed UAV's altitude, mass and flight time operational limits;
 
 
-* don't launch UAV or fly near high power radio transmitters;
+* don't launch or fly UAV near high power radio transmitters;
 
 
 * don't allow unauthorized persons into the UAV launch area;
 
 
-* when planning a UAV landing point, make sure that the UAV will land outside roads, power lines, ponds, and crowded places. Remember about the possible demolition of the parachute during the descent;
+* when planning a UAV landing point, make sure that the UAV will land away from roads, power lines, ponds and crowded places. Remember about the possible drift of the parachute during the descent;
 
 
-* avoid flying in crowded places.
+* avoid flying above crowded places.
 
 
-**Observe the following operating precautions:**
+**Keep in mind the following operating precautions:**
 
 * don't assemble or disassemble the UAV when the power is on;
 
@@ -59,10 +59,10 @@ Safety rules
 * when carrying UAV in the area of landing or launch, hold the fuselage;
 
 
-* remove the lens cap of the camera only before the aerial survey;
+* remove the camera lens cap only before the aerial survey;
 
 
-* if the UAV gets into the water, it is necessary to immediately disconnect the battery and dry all structural elements, wires, connectors, electronic equipment;
+* in case UAV gets into the water, immediately disconnect the battery and dry all structural elements, wires, connectors, electronic equipment;
 
 
 * don't make changes in a construction of the UAV and launcher.
@@ -72,10 +72,10 @@ Operational restrictions
 ------------------------------
 
 * Operating temperature range: -20 to +40 °С
-* Max wind speed: 12 м/с
+* Max wind speed: 12 m/s
 
 The aerial photography complex is not intended for flights during rain, snow and other precipitation.
 
-The complex can't fly below height of the starting point.
+The complex can't fly below starting point altitude.
 
-In mountains you need to find lower point of flight task area for start. The entire flight route must pass above the starting point.
+In mountains conditions, find the lowest point of the area for flight mission start. The entire flight route must pass above the starting point.
