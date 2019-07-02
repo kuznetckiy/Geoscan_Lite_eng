@@ -9,14 +9,14 @@ Launcher
 Assembly
 ----------
 
-1) Take out a parts of the launcher from the transport bag.
-2) Spread out the supports on the front of the launcher. Make sure that they are securely fastened by locks. To fold the supports pull the locks down.
+1) Take out parts of the launcher from the transport bag.
+2) Unfold the front supports of the launcher. Make sure that they are securely locked. To fold the supports, pull the locking nuts down.
 
 .. figure:: _static/_images/catapult1.png
    :align: center
    :width: 400
 
-   Installation of supports
+   Unfolding supports
 
 3) Attach the middle part of the launcher.
 
@@ -34,19 +34,18 @@ Assembly
 
    Attaching of the rear part of launcher
 
-5) Insert the locking pin into the hole in the middle and rear part of the launcher.
+5) Insert the locking pin into the hole, connecting rear and middle parts of the launcher.
 
 6) Place the launcher on a flat surface so that the UAV is launched against the wind. Make sure that the launcher is stable on the ground and that its guide has no roll. If necessary, bury one of the supports to align the launcher.
 
-.. attention:: The launch of the UAV is allowed only against the wind. It is strictly forbidden to launch the UAV in the direction of the wind. Failure to do so may cause the UAV to fall or collide with obstacles, as the UAV will not be able to gain altitude.
+.. attention:: The launch of the UAV is allowed only against the wind. It is strictly forbidden to launch the UAV in the direction of the wind as this can lead to UAV damage, as it will not be able to gain altitude.
 
-7) Install and hammer the stop peg into the bracket at the rear part of the launcher to prevent displacement when the UAV starts.
+7) Install and hammer the stop peg into the bracket at the rear part of the launcher. This prevents launcher displacement at UAV start.
 
-.. attention::The stop peg must be hammered to avoid the launcher jumping at the start of the UAV. Make sure the rear part of the launcher does not deform when you hammer on the peg.
+.. attention:: The stop peg must be hammered to avoid the launcher jumping at the start of the UAV. Make sure the rear part of the launcher does not get deformed when you hammer on the peg.
 
-When starting the UAV, the jerk of the rubber cords leads to the throwing of the rear part of the launcher. To securely attach the launcher, you must hammer on the stop peg on the entire length, achieving complete immobility of the rear support posts launcher. When you hammer on the stop peg, be careful not to deform the rear of the launcher.
 
-8) Install the carriage onto the guide of the launcher, so that the rails of the carriage slid along the rails.
+8) Install the carriage onto the guide of the launcher, so that it could slide along launcher rails.
 
 .. figure:: _static/_images/catapult4.png
    :align: center
@@ -54,10 +53,10 @@ When starting the UAV, the jerk of the rubber cords leads to the throwing of the
 
    Installation of the carriage
 
-.. attention:: Before each start of the UAV make sure that the carriage slides on the rails without clinging to the joints of parts of the launcher.
+.. attention:: Before every launch, make sure that the carriage slides on the rails without clinging.
 
-9) Move the carriage down until it locks in the lock.
-10) Insert the safety pin into the starting mechanism.
+9) Move the carriage down until it locks in the rear (you should hear 2 clicks).
+10) Insert the safety pin into the launch mechanism.
 
 .. figure:: _static/_images/catapult8.png
    :align: center
@@ -65,22 +64,22 @@ When starting the UAV, the jerk of the rubber cords leads to the throwing of the
 
    Insert the safety pin
 
-.. attention::  If you does not insert the pin, the lock may accidentally trigger!
+.. attention::  Otherwise, he lock may accidentally trigger!
 
 
 11) Release the winch stopper and unwind the tension cable.
-12) Take the rubber cords. Straighten the cords. Make sure that the cords are not overlapped.
-13) Use the rope ring at the end of the rubber cord to make loop and hook the carriage.
+12) Take the rubber cords and straighten them. Make sure that the cords are not overlapped.
+13) Use the rope to make a loop and hook it to the carriage.
 
 .. figure:: _static/_images/catapult10.png
    :align: center
    :width: 250
 
-   Rope ring loop
+   Rope loop
 
 
-14) Connect the another end of the rubber cord to the end of the starting cable by a carabiner. The starting cable must pass through the roller. The carbine must be immured.
-15) Similarly, attach the second rubber cord.
+14) Connect the other end of the rubber cord to the end of the starting cable using a carabiner. The starting cable must pass through the roller. The carbine must be immured.
+15) In a same way, attach the second rubber cord.
 16) Put the handle of the winch reel on the axle and slide until the reinforcement mechanism clicks.
 
 .. figure:: _static/_images/catapult11.png
@@ -90,24 +89,24 @@ When starting the UAV, the jerk of the rubber cords leads to the throwing of the
    Installing the winch reel handle
 
 
-Preparation of the launcher to launch the UAV
------------------------------------------------
+Pre-launch sequence
+---------------------
 
-.. attention:: In order to ensure the safety of work on the launch pad and increase the life of rubber cords, pull the cords only immediately before the launch after the successful pre-launch preparation.
+.. attention:: In order to ensure the safety of the launch pad and increase the of rubber cords lifetime, do not leave them armed for more than 2-3 minutes before launch.
 
-1) Move the winch stopper to the cable tension position.
+1) Switch the winch stopper to cable tension position.
 
-2) Pull the rubber cords by rotating the winch reel handle. In case of contact with the cords between the roller and the guide part of the launcher or break from the roller, it is necessary to stop the tension of the cords. Displaced bands should be placed on the roller, after which you can continue to pull the cords of the launcher.
+2) Pull the rubber cords back by rotating the winch reel handle. In case of contact with the cords between the roller and the guide part of the launcher or break from the roller, it is necessary to stop the tension of the cords. Displaced bands should be placed on the roller, after which you can continue to pull the cords of the launcher.
 
-You must be stop stretching of the cords when carbines will be opposite to the marker "STOP" engraved on the middle part of the launcher.
+You must stop the cords tesion when carbines as soon as carabiner reaches "STOP" marker, engraved on the middle part of the launcher.
 
-Now the UAV can be placed on the launcher.
+Now you can place UAV on the launcher.
 
 
-Rules of use the rubber cords
------------------------------------------------------
+Rubber cords condition rules
+--------------------------------
 
-* Check the condition of the rubber bands regularly. If cracks and scuffs are found, replace the damaged ring with a spare ring from the spare parts kit.
-* Don't keep the rubber cords stretched for a long time. Stretch the cords directly before placing the UAV on the launcher.
-* In the warm season, do not allow long-term exposure of rubber cords in direct sunlight.
-* In the cold season, do not allow the rubber cords to freeze. Keep them in a warm place prior to installation on the launcher and pull directly before starting. After starting the UAV immediately remove the cords from the launcher and put to a warm place.
+* Check the condition of the rubber cords regularly. If cracks and scuffs appear, replace the damaged ring with a spare ring from the spare parts kit.
+* Don't keep the rubber cords stretched for a long time. Stretch the cords just before placing the UAV on the launcher.
+* During  warm season, do not allow long-term exposure of rubber cords in direct sunlight.
+* During cold season, do not allow the rubber cords to freeze. Keep them in a warm place prior to installation and arm before the launch. After UAV liftoff, immediately remove the cords from the launcher and put them to a warm place.

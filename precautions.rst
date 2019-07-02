@@ -73,7 +73,7 @@ Operational restrictions
 * Operating temperature range: -20 to +40 °С
 * Max wind speed: 12 m/s
 
-The aerial photography complex is not intended for flights during rain, snow and other precipitation.
+The aerial photography complex is not intended to fly during rain, snow and other precipitation.
 
 The complex can't fly below starting point altitude.
 

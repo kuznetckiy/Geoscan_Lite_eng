@@ -16,11 +16,11 @@ In the lower right corner of the screen, the antenna icon and the number of conn
 
    MdmDisp program indicator
 
-3.1 At the first time you need to configure connection with UAV. 
+3.1 The first turn on, you need to configure connection with UAV. 
 
 Run **NetTopology**:
 
-* Click on the icon **Search**.
+* Click on the **Search** icon .
 
 .. figure:: _static/_images/planner29.png
    :align: center
@@ -33,7 +33,7 @@ The program shows a list of detected modems.
 
 .. note:: The button is fixable, so it should be pressed again to stop searching.
 
-* Choose UAV №xxx and click on the icon **Add device**.
+* Choose UAV №xxx and click on the **Add device** icon .
 
 .. figure:: _static/_images/planner30.png
    :align: center
@@ -55,7 +55,7 @@ If UAV is not detected, you can reconnect the RCL modem by clicking **Reconnect*
 
 4) Run program **Geoscan Planner**.
 5) Enter your login and password.
-6) For UAV connection select the drop-down menu **Flight – Connect to the UAV – Search...**.
+6) For UAV connection, select the drop-down menu **Flight – Connect to the UAV – Search...**.
 
 .. figure:: _static/_images/planner3.png
    :align: center
@@ -71,7 +71,7 @@ If UAV is not detected, you can reconnect the RCL modem by clicking **Reconnect*
 
    Connect UAV
 
-.. note:: It is enough to set the parameters once. Next time when you connect your UAV click **Connect the UA** on the toolbar. The receiver will automatically detect the coordinates and display the UAV location on the map. The telemetry panel (left) and the instrument panel (right) appear in the program window.
+.. note:: It is enough to set the parameters once. Next time when you connect your UAV, click **Connect the UA** on the toolbar. The receiver will automatically detect the coordinates and display the UAV location on the map. The telemetry panel (left) and the instrument panel (right) appear in the program window.
 
 .. figure:: _static/_images/pl5.png
    :align: center
@@ -83,7 +83,7 @@ If UAV is not detected, you can reconnect the RCL modem by clicking **Reconnect*
 Creating a flight task
 ----------------------------------------
 
-1) Create**New project**.
+1) Create **New project**.
 
 .. figure:: _static/_images/planner5.png
    :align: center
@@ -103,7 +103,7 @@ Creating a flight task
 Areal surveying
 -------------------------------------------
 
-Areal surveying is an aerial photography of polygons. Polygon is an area, bounded by polygon. The operator sets the vertices of the polygon, and the program automatically calculates the route for UAV.
+Areal surveying is an aerial photography of polygons. The operator sets the vertices of the polygon, and the program automatically calculates the route for UAV.
 
 1) Click on the icon **Create areal surveying** on the toolbar.
 
@@ -115,7 +115,7 @@ Areal surveying is an aerial photography of polygons. Polygon is an area, bounde
 
 2) By single mouse clicking specify the angular points of the research site. The program automatically calculates the route for bypassing the polygon.
 It is enough for the operator to create a polygon directly along the boundaries of the investigated area, the program will increase the length of the overfights and their number in accordance with the survey conditions by itself.
-When constructing a route, a rising and a lowering of UAV is displayed as the cylinders if the difference in heights of neighboring points is not less than 30 meters.
+When creating a route, UAV climb and descent is displayed as the cylinders if the difference in heights of neighboring points is not less than 30 meters.
 
 .. figure:: _static/_images/planner9.png
    :align: center
@@ -160,7 +160,7 @@ To remove vertex:
 Changing the direction of the route lines.
 _____________________________________________
 
-The necessary of optimizing polygon "by the direction" occurs quite often, for example, if the force and direction of the wind are unfavorable at the site of work (strong wind along the lines of the overflight above the polygon).
+The necessity of optimizing polygon "by direction" occurs quite often, for example, if the force and direction of the wind are unfavorable at the site of work (strong wind along the lines of the overflight above the polygon).
 To change the type of optimization, right-click on the polygon and select the option **Optimization by “direction”** in the context menu.
 
 1) Right-click on the polygon area.
@@ -188,7 +188,7 @@ As a Result, there will be a new route to fly around the area in the specified d
 
    New flight route
 
-Change start point
+Change entry point
 _________________________________
 
 To change the polygon entry point, follow these steps:
@@ -240,7 +240,7 @@ Linear aerial photography is performed in order to survey linear extended object
 
 Hop
 ----------------
-Fight by pre-set route with a set altitude. It is mainly used for passing around point objects (i.e. high objects) and topographic inequality.
+Fight by pre-set route with a set altitude. It is mainly used for passing above point objects (i.e. high objects) and topographic inequality.
 
 1) Click on the icon **Create hop** on the toolbar.
 
@@ -272,9 +272,7 @@ Hop route between two flight elements is built according to the following rules:
 
 Waiting point
 ------------------------
-Waiting point serves to hold the indicated point at the specified altitude during
-the specified time interval. Also, waiting point allows to measure the direction
-and force of the wind at a specified altitude.
+Waiting point serves to hold the indicated point at the specified altitude during the specified time interval. Also, waiting point allows to measure the direction and force of the wind at a specified altitude.
 
 1) Click the button **Create waiting point** on the toolbar.
 
@@ -286,9 +284,7 @@ and force of the wind at a specified altitude.
 
 2) Click and specify the point, where a waiting should take place.
 
-In expert mode properties may be changed:
-setting an altitude of the waiting point, the waiting time and activation of the
-wind measurement function.
+In expert mode properties may be changed: setting an altitude of the waiting point, the waiting time and activation of the wind measurement function.
 
 .. figure:: _static/_images/planner23.png
    :align: center
@@ -322,10 +318,8 @@ Command **Create landing** is used to make a landing route.
 
 Building a landing route is an indispensable action at the stage of preparing a flight task.
 
-On arrival at the survey area, determine the wind direction, correct if necessary
-the zone of 
-ight and select the landing site.
-For landing should be chosen an open space without water bodies, trees and other obstacles. The landing site should be  at, preferably with a grass cover.
+On arrival at the survey area, determine the wind direction, correct the zone of fight (if necessary) and select the landing site.
+For landing site, choose a open field or meadow without water, trees and other obstacles.
 
 1) Click on **Create landing** icon on the toolbar.
 
@@ -361,7 +355,7 @@ Pre-launch preparation
 
 Follow the instructions of the Start preparing Wizard (most tests are runned automatically).
 Set the radius of the automatic parachute detaching and autonomous flight time (time in flight without the connection between the GCS and UAV).
-After fight preparation completion, place UAV on the launcher.
+After fight preparation is complete, place UAV on the launcher.
 
 Flight
 ----------------------------
@@ -388,7 +382,5 @@ The telemetry panel displays **CATAPULT** mode.
 .. attention:: To cancel the switching to Catapult mode, press the cancel button **Cancel**. UAV will be switched to the **Preparation** mode. It will require to go through the flight preparation again.
 
 2) Turn the safety off and activate the launch device, pulling the launching cord.
-
-
 
 UAV will take off.

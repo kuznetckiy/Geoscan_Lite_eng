@@ -1,10 +1,10 @@
-Setting up the camera
+Camera Settings
 =========================
 
-Setting up the Sony A6000 camera
+Sony A6000 camera Setting 
 ------------------------------------
 
-Before making settings, read the full operating instructions of the camera, which describes the purpose and use of the controls.
+Before changing camera's settings, read its the full operating instructions, which describes the purpose and use of the controls.
 
 Set the mode dial to **S** (Shutter Priority).
 
@@ -65,7 +65,7 @@ Use the control wheel to set the following parameters:
    Reset file number
 
 
-Setting up the A6000 NIR
+Sony A6000 NIR camera setting
 -------------------------------------
 
 The following options are set in Photo menu:
